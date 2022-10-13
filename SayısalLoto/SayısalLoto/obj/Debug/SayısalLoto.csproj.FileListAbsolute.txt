@@ -1,0 +1,11 @@
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe.config
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.pdb
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.AssemblyReference.cache
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Form1.resources
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Properties.Resources.resources
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.GenerateResource.cache
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.exe
+C:\Users\ataka\OneDrive\Masaüstü\proje2\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.pdb
